@@ -1,0 +1,23 @@
+{
+    "search": "Search",
+    "userPage": "User Page",
+    "myRepository": "My Reposirory",
+    "myRepositories": "My Repositories",
+    "noRepositories": "No Repositories",
+    "forks": "Forks",
+    "issues": "Issues",
+    "watchers": "Watchers",
+    "stargazers": "Stargazers",
+    "project": "Project",
+    "description": "Description",
+    "clone": "Clone",
+    "license": "License",
+    "isYourContact": "is your contact",
+    "isntYourContact": "isn`t your contact",
+    "name": "Name",
+    "email": "E-mail",
+    "undefined": "Undefined",
+    "location": "Location",
+    "createdBy": "Created By Umbrella Corps",
+    "appTitle": "App Interview"
+}

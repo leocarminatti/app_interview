@@ -1,0 +1,23 @@
+{
+    "search": "Pesquisar",
+    "userPage": "Pagina do Usuário",
+    "myRepository": "Meu Repositório",
+    "myRepositories": "Meus Repositórios",
+    "noRepositories": "Sem Repositórios",
+    "forks": "Forks",
+    "issues": "Issues",
+    "watchers": "Watchers",
+    "stargazers": "Stargazers",
+    "project": "Projeto",
+    "description": "Descrição",
+    "clone": "Clonar",
+    "license": "Licença",
+    "isYourContact": "é seu contato",
+    "isntYourContact": "não é seu contato",
+    "name": "Nome",
+    "email": "E-mail",
+    "undefined": "Undefined",
+    "location": "Localização",
+    "createdBy": "Criado por Umbrella Corps",
+    "appTitle": "App Interview"
+}
