@@ -4,7 +4,9 @@ class ContactsService {
   static late List<Contact> contacts;
 
   static Future<void> init() async {
-    contacts = await FlutterContacts.getContacts();
+    if (await FlutterContacts.requestPermission()) {
+      contacts = await FlutterContacts.getContacts();
+    }
   }
 
   static bool comparerContact(String name) {
